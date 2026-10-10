@@ -1,0 +1,13 @@
+# Arduino / PlatformIO build output
+build/
+.pio/
+
+# Edge Impulse exported library (download from your project)
+*_inferencing/
+
+# Office lock files
+~$*
+
+# OS
+.DS_Store
+Thumbs.db
